@@ -36,11 +36,18 @@ aside {
     
 }
 
+.logo {
+    margin: auto;
+    text-align: center;
+}
+
 .contact {
-    display: flex;
     max-width: 90%;
     max-height: 250px;
     margin: auto; 
+    font-family: 'Lato', sans-serif;
+    font-size: 95%;
+    font-weight: 600;
 }
 
 header {
@@ -81,7 +88,8 @@ p {
 
 footer {
     margin: auto;
-    float: right;
+    max-width: 60%;
+    font-weight: 800;
 }
 
 
