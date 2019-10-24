@@ -39,6 +39,8 @@ aside {
 .logo {
     margin: auto;
     text-align: center;
+    position: relative;
+    bottom: 20px;
 }
 
 .contact {
@@ -88,8 +90,9 @@ p {
 
 footer {
     margin: auto;
-    max-width: 60%;
+    max-width: 59%;
     font-weight: 800;
+
 }
 
 
@@ -109,3 +112,4 @@ footer {
   -o-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
 }
+
