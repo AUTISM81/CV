@@ -3,12 +3,8 @@ body {
     margin: auto;
 }
 
-main {
-
-}
-
 html {
-    border-width: 0px;
+    border-width: 0;
 }
 
 aside {
@@ -81,7 +77,7 @@ header {
 article {
     max-width: 50%;
     margin: auto;
-    width: max-content;
+    width: auto;
 }
 
 p {
